@@ -18,7 +18,7 @@
 - 💻 All of my projects are available at www.julienmuke.com  
   
 
-- 📬 How to reach me me@julienmuke.com  
+- 📬 How to reach me hello@julienmuke.com  
   
 
 <br/>  
