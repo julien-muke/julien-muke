@@ -1,28 +1,14 @@
 [![julien-muke's GitHub Banner](header.jpg)](https://julienmuke.com)
-  
+   
+<br>  
 
-### <div align="center">I'm Julien Muke, a Front End Developer 👨‍💻  🚀</div>  
-  
+Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 
-- 👀 I'm interested in building designing and building cool websites  
-  
+## 📝 Latest Blog Posts
 
-- 🔭 I’m currently working on [Eureka E-commerce](https://github.com/julien-muke/eureka)  
-  
+<br>
 
-- 🌱 I’m currently learning React with Redux, Hooks, GraphQL ...  
-  
-
-- 💻 All of my projects are available at www.julienmuke.com  
-  
-
-- 📬 How to reach me hello@julienmuke.com  
-  
-
-<br/>  
-
-
-## My Skill Set  
+## 💼 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
