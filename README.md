@@ -76,9 +76,9 @@ Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 <a href="https://codepen.com/julien-muke" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/julien muke" target="_blank">
+<!-- <a href="https://www.behance.net/julien muke" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
   
 
