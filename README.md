@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+[![julien-muke's GitHub Banner](header.jpg)](https://julienmuke.com)
   
 
 ### <div align="center">I'm Julien Muke, a Front End Developer 👨‍💻  🚀</div>  
