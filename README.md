@@ -6,7 +6,7 @@ Hey there 👋
 
 I'm julien, a web developer, I enjoy designing and developing scaling beautiful websites and web application, that leads to the success of the overall usable products.
 
-📫  Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
+## 📫  Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 
 <br>
 
