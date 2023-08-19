@@ -1,4 +1,4 @@
-[![julien-muke's GitHub Banner](header.jpg)](https://julienmuke.com)
+[![julien-muke's GitHub Banner](header2.jpg)](https://julienmuke.com)
    
 <br>  
 
