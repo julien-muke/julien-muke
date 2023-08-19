@@ -1,6 +1,10 @@
-[![julien-muke's GitHub Banner](header2.jpg)](https://julienmuke.com)
+[![julien-muke's GitHub Banner](header.jpg)](https://julienmuke.com)
    
-<br>  
+<br> 
+
+Hey there 👋
+
+I'm julien, a web developer, I enjoy designing and developing scaling beautiful websites and web application, that leads to the success of the overall usable products.
 
 Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 
