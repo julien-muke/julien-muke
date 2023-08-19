@@ -6,9 +6,7 @@ Hey there 👋
 
 I'm julien, a web developer, I enjoy designing and developing scaling beautiful websites and web application, that leads to the success of the overall usable products.
 
-Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
-
-## 📝 Latest Blog Posts
+📫  Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 
 <br>
 
@@ -66,7 +64,7 @@ Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 <br/>  
 
 
-## Connect with me  
+## 💬 Connect with me  
 <div align="center">
 <a href="https://github.com/julien-muke" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,7 +87,7 @@ Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 <br/>  
 
 
-## Github Stats  
+## 📝 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=julien-muke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
