@@ -60,8 +60,22 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 <br/>  
 
 <div align="center">
-<a href="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6/public_url" target="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6">
+<a href="" target="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6">
 </div> 
+
+<link>
+        <a href="https://freecodecamp.org">freeCodeCamp</a>
+</link>
+
+<div 
+    data-iframe-width="150" 
+    data-iframe-height="270" 
+    data-share-badge-id="8de36310-d8da-4eaf-8b93-a6f71f6130c6" 
+    data-share-badge-host="https://www.credly.com">
+</div>
+<script 
+    type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
 
 
 ## 💬 Connect with me  
