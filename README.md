@@ -59,9 +59,17 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 
 <br/>  
 
-<div align="center">
-<a href="" target="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6">
-</div> 
+<div id="badges">
+  <a href="[link to your LinkedIn profile]">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[link to your Medium profile]">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+  <a href="[link to your Tableau profile]">
+    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</div>
 
 <link>
     <div 
@@ -70,9 +78,6 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
     data-share-badge-id="8de36310-d8da-4eaf-8b93-a6f71f6130c6" 
     data-share-badge-host="https://www.credly.com">
 </div>
-<script 
-    type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
-</script>
 </link>
 
 
