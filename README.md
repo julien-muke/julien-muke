@@ -59,7 +59,7 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 
 <br/>  
 
-[![1706418259016](https://github.com/julien-muke/julien-muke/assets/110755734/7c5c0382-c9b4-46ff-8cc9-9f066d422618)](https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6/public_url)
+[![aws_badge](https://github.com/julien-muke/julien-muke/assets/110755734/61ee718a-b39d-4714-803b-519e74139a61)](https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6/public_url)
 
 
 ## 💬 Connect with me  
