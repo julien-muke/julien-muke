@@ -59,31 +59,7 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 
 <br/>  
 
-<div align="center">
-  <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8de36310-d8da-4eaf-8b93-a6f71f6130c6" data-share-badge-host="https://www.credly.com">
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    </div>
-
-  </div>
-
-  <h3 align="center">Modern UI/UX website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
-    </div>
-</div>
-
-
+<div align="center"><img src="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6/public_url" align="center" /></div> 
 
 
 ## 💬 Connect with me  
