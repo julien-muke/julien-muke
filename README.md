@@ -64,10 +64,7 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 </div> 
 
 <link>
-        <a href="https://freecodecamp.org">freeCodeCamp</a>
-</link>
-
-<div 
+    <div 
     data-iframe-width="150" 
     data-iframe-height="270" 
     data-share-badge-id="8de36310-d8da-4eaf-8b93-a6f71f6130c6" 
@@ -76,6 +73,9 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 <script 
     type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
 </script>
+</link>
+
+
 
 
 ## 💬 Connect with me  
