@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm julien, a full stack web developer, I enjoy designing and developing scaling beautiful websites and web application, that leads to the success of the overall usable products.
+I'm julien, a full-stack web developer, I enjoy designing, developing, and scaling beautiful websites and web applications, that lead to the success of overall usable products.
 
 ## 👨‍💻   Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 
@@ -59,6 +59,7 @@ I'm julien, a full stack web developer, I enjoy designing and developing scaling
 
 <br/>  
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8de36310-d8da-4eaf-8b93-a6f71f6130c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## 💬 Connect with me  
