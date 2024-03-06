@@ -60,7 +60,7 @@ I'm julien, a full-stack web developer, I enjoy designing, developing, and scali
 <br/>  
 
 <div align="center">
-<img src="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6/public_url" align="center"/>
+<a href="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6/public_url" target="https://www.credly.com/badges/8de36310-d8da-4eaf-8b93-a6f71f6130c6">
 </div> 
 
 
