@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm julien, a full-stack web developer, I enjoy designing, developing, and scaling beautiful websites and web applications, that lead to the success of overall usable products.
+Self-taught AWS Cloud Engineer with a passion for designing scalable and secure cloud solutions. AWS Certified Cloud Practitioner committed to continuous learning and staying updated with the latest cloud technologies.
 
 ## 👨‍💻   Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
 
