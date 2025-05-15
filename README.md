@@ -6,7 +6,7 @@ Hey there 👋
 
 Self-taught AWS Cloud Engineer with a passion for designing scalable and secure cloud solutions. AWS Certified Cloud Practitioner committed to continuous learning and staying updated with the latest cloud technologies.
 
-## 👨‍💻   Want to know more about me? [Check out my portfolio.](https://julienmuke.com/)
+## 👨‍💻   Want to know more about me? [Check out my portfolio.](https://julienmuke.io/)
 
 <br>
 
