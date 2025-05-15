@@ -56,11 +56,6 @@ Self-taught AWS Cloud Engineer with a passion for designing scalable and secure 
   
 <br/>  
 
-## 📝 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=julien-muke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 Coming soon!!
