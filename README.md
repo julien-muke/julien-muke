@@ -56,9 +56,10 @@ Self-taught AWS Cloud Engineer with a passion for designing scalable and secure 
   
 <br/>  
 
-## Recent Blog Posts  
+## 🌐 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 🔗 YouTube: https://www.youtube.com/@julienmuke
+<br/>
 🔗 Medium: https://medium.com/@julien.muke
 
 <!-- BLOG-POST-LIST:END -->  
