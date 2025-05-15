@@ -24,7 +24,7 @@ Self-taught AWS Cloud Engineer with a passion for designing scalable and secure 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" height="50" /></a>    
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" height="50" /></a> 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" height="50" /></a> 
-<a href="#" target="_blank"><img style="margin: 10px" src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" height="50" /></a> 
+<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" height="50" /></a> 
 
 </div>
 
