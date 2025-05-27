@@ -15,16 +15,19 @@ Self-taught AWS Cloud Engineer with a passion for designing scalable and secure 
 
 <div align="center">  
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" height="50" /></a>    
-<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" height="50" /></a>  
-<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" height="50" /></a> 
+<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" height="50" /></a> 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" height="50" /></a> 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" height="50" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" height="50" /></a>    
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" height="50" /></a> 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" height="50" /></a> 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" height="50" /></a> 
+<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" height="50" /></a> 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" height="50" /></a>
+   
+
 
 </div>
 
